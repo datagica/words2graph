@@ -1,0 +1,307 @@
+[
+  {
+    "source": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type": "weapon",
+      "id": "entity:weapon__sword",
+      "label":{
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 26232,
+        "end": 121456,
+        "ngram": "sword",
+        "begin": 121451
+      }
+    },
+    "target": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__blade",
+      "label":{
+        "en": "Blade",
+        "fr": "Lame"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 51122,
+        "end": 237170,
+        "ngram": "lame",
+        "begin": 237166
+      }
+    },
+    "link": {
+      "id": "link:affinity",
+      "distance": 293998,
+      "occurrences": 14,
+      "type": "affinity",
+      "weight": 0.00004761937156035075
+    }
+  },
+  {
+    "source": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__sword",
+      "label":{
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 26232,
+        "end": 121456,
+        "ngram": "sword",
+        "begin": 121451
+      }
+    },
+    "target": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__dagger",
+      "label":{
+        "en": "Dagger",
+        "fr": "Dague"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 18797,
+        "end": 86965,
+        "ngram": "dagger",
+        "begin": 86959
+      }
+    },
+    "link": {
+      "id": "link:affinity",
+      "distance": 106358,
+      "occurrences": 9,
+      "type": "affinity",
+      "weight": 0.00008461986874518137
+    }
+  },
+  {
+    "source": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__sword",
+      "label":{
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 26232,
+        "end": 121456,
+        "ngram": "sword",
+        "begin": 121451
+      }
+    },
+    "target": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__knife",
+      "label":{
+        "en": "Knife",
+        "fr": "Couteau"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 19005,
+        "end": 87923,
+        "ngram": "knife",
+        "begin": 87918
+      }
+    },
+    "link": {
+      "id": "link:affinity",
+      "distance": 37675,
+      "occurrences": 4,
+      "type": "affinity",
+      "weight": 0.00010617120106171201
+    }
+  },
+  {
+    "source": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__dagger",
+      "label":{
+        "en": "Dagger",
+        "fr": "Dague"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 18797,
+        "end": 86965,
+        "ngram": "dagger",
+        "begin": 86959
+      }
+    },
+    "target": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__blade",
+      "label":{
+        "en": "Blade",
+        "fr": "Lame"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 51274,
+        "end": 237850,
+        "ngram": "lame",
+        "begin": 237846
+      }
+    },
+    "link": {
+      "id": "link:affinity",
+      "distance": 32653,
+      "occurrences": 2,
+      "type": "affinity",
+      "weight": 0.00006125011484396534
+    }
+  },
+  {
+    "source": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__dagger",
+      "label":{
+        "en": "Dagger",
+        "fr": "Dague"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 18797,
+        "end": 86965,
+        "ngram": "dagger",
+        "begin": 86959
+      }
+    },
+    "target": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__knife",
+      "label":{
+        "en": "Knife",
+        "fr": "Couteau"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 19005,
+        "end": 87923,
+        "ngram": "knife",
+        "begin": 87918
+      }
+    },
+    "link": {
+      "id": "link:affinity",
+      "distance": 208,
+      "occurrences": 1,
+      "type": "affinity",
+      "weight": 0.004807692307692308
+    }
+  },
+  {
+    "source": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__sword",
+      "label":{
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 142122,
+        "end": 663606,
+        "ngram": "sword",
+        "begin": 663601
+      }
+    },
+    "target": {
+      "recordType": "bcbe6dd6-ce24-4027-b565-8b7afbceb261",
+      "recordId": "record:bcbe6dd6-ce24-4027-b565-8b7afbceb261__file:///Users/jbilcke/Dropbox/Shared/datanote-demo/entertainment/Homer/Iliad/The_Iliad_(Butler).txt",
+      "recordLabel": {
+        "en": "The_Iliad_(Butler).txt"
+      },
+      "type":"weapon",
+      "id":"entity:weapon__Judge Revolver",
+      "label":{
+        "en": "Judge"
+      },
+      "rank": 42, "position": {
+        "score": 1,
+        "sentence": 0,
+        "word": 159617,
+        "end": 744654,
+        "ngram": "judge",
+        "begin": 744649
+      }
+    },
+    "link": {
+      "id": "link:affinity",
+      "distance": 17495,
+      "occurrences": 1,
+      "type": "affinity",
+      "weight": 0.00005715918833952558
+    }
+  }
+]

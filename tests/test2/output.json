@@ -1,0 +1,41 @@
+[
+  {
+    "source": {
+      "type": "protein",
+      "id": "entity:protein__globulin",
+      "label": {
+        "en": "Globulin"
+      },
+      "plural": {
+        "en": "Globulin"
+      },
+      "rank": 42
+    },
+    "target": {
+      "type": "protein",
+      "id": "entity:protein__nucleoprotein",
+      "label": {
+        "en": "Nucleoprotein"
+      },
+      "plural": {
+        "en": "Nucleoprotein"
+      },
+      "rank": 42
+    },
+    "link": {
+      "type": "link",
+      "id": "link:affinity",
+      "label": {
+        "en": "Affinity",
+        "fr": "Affinité"
+      },
+      "plural": {
+        "en": "Affinities",
+        "fr": "Affinités"
+      },
+      "distance": 0,
+      "occurrences": 1,
+      "weight": 1
+    }
+  }
+]

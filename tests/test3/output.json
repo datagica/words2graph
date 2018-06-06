@@ -1,0 +1,258 @@
+[
+  {
+    "source": {
+      "type": "weapon",
+      "id": "entity:weapon__sword",
+      "label": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "plural": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42
+    },
+    "target": {
+      "type": "weapon",
+      "id": "entity:weapon__blade",
+      "label": {
+        "en": "Blade",
+        "fr": "Lame"
+      },
+      "plural": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42
+    },
+    "link": {
+      "type": "link",
+      "id": "link:affinity",
+      "label": {
+        "en": "Affinity",
+        "fr": "Affinité"
+      },
+      "plural": {
+        "en": "Affinities",
+        "fr": "Affinités"
+      },
+      "distance": 293998,
+      "occurrences": 14,
+      "weight": 0.00004761937156035075
+    }
+  },
+  {
+    "source": {
+      "type": "weapon",
+      "id": "entity:weapon__sword",
+      "label": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "plural": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42
+    },
+    "target": {
+      "type": "weapon",
+      "id": "entity:weapon__dagger",
+      "label": {
+        "en": "Dagger",
+        "fr": "Dague"
+      },
+      "plural": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42
+    },
+    "link": {
+      "type": "link",
+      "id": "link:affinity",
+      "label": {
+        "en": "Affinity",
+        "fr": "Affinité"
+      },
+      "plural": {
+        "en": "Affinities",
+        "fr": "Affinités"
+      },
+      "distance": 106358,
+      "occurrences": 9,
+      "weight": 0.00008461986874518137
+    }
+  },
+  {
+    "source": {
+      "type": "weapon",
+      "id": "entity:weapon__sword",
+      "label": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "plural": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42
+    },
+    "target": {
+      "type": "weapon",
+      "id": "entity:weapon__knife",
+      "label": {
+        "en": "Knife",
+        "fr": "Couteau"
+      },
+      "plural": {
+        "en": "Knife",
+        "fr": "Couteau"
+      },
+      "rank": 42
+    },
+    "link": {
+      "type": "link",
+      "id": "link:affinity",
+      "label": {
+        "en": "Affinity",
+        "fr": "Affinité"
+      },
+      "plural": {
+        "en": "Affinities",
+        "fr": "Affinités"
+      },
+      "distance": 37675,
+      "occurrences": 4,
+      "weight": 0.00010617120106171201
+    }
+  },
+  {
+    "source": {
+      "type": "weapon",
+      "id": "entity:weapon__dagger",
+      "label": {
+        "en": "Dagger",
+        "fr": "Dague"
+      },
+      "plural": {
+        "en": "Dagger",
+        "fr": "Dague"
+      },
+      "rank": 42
+    },
+    "target": {
+      "type": "weapon",
+      "id": "entity:weapon__blade",
+      "label": {
+        "en": "Blade",
+        "fr": "Lame"
+      },
+      "plural": {
+        "en": "Blade",
+        "fr": "Lame"
+      },
+      "rank": 42
+    },
+    "link": {
+      "type": "link",
+      "id": "link:affinity",
+      "label": {
+        "en": "Affinity",
+        "fr": "Affinité"
+      },
+      "plural": {
+        "en": "Affinities",
+        "fr": "Affinités"
+      },
+      "distance": 32653,
+      "occurrences": 2,
+      "weight": 0.00006125011484396534
+    }
+  },
+  {
+    "source": {
+      "type": "weapon",
+      "id": "entity:weapon__dagger",
+      "label": {
+        "en": "Dagger",
+        "fr": "Dague"
+      },
+      "plural": {
+        "en": "Dagger",
+        "fr": "Dague"
+      },
+      "rank": 42
+    },
+    "target": {
+      "type": "weapon",
+      "id": "entity:weapon__knife",
+      "label": {
+        "en": "Knife",
+        "fr": "Couteau"
+      },
+      "plural": {
+        "en": "Knife",
+        "fr": "Couteau"
+      },
+      "rank": 42
+    },
+    "link": {
+      "type": "link",
+      "id": "link:affinity",
+      "label": {
+        "en": "Affinity",
+        "fr": "Affinité"
+      },
+      "plural": {
+        "en": "Affinities",
+        "fr": "Affinités"
+      },
+      "distance": 208,
+      "occurrences": 1,
+      "weight": 0.004807692307692308
+    }
+  },
+  {
+    "source": {
+      "type": "weapon",
+      "id": "entity:weapon__sword",
+      "label": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "plural": {
+        "en": "Sword",
+        "fr": "Épée"
+      },
+      "rank": 42
+    },
+    "target": {
+      "type": "weapon",
+      "id": "entity:weapon__Judge Revolver",
+      "label": {
+        "en": "Judge"
+      },
+      "plural": {
+        "en": "Judge"
+      },
+      "rank": 42
+    },
+    "link": {
+      "type": "link",
+      "id": "link:affinity",
+      "label": {
+        "en": "Affinity",
+        "fr": "Affinité"
+      },
+      "plural": {
+        "en": "Affinities",
+        "fr": "Affinités"
+      },
+      "distance": 17495,
+      "occurrences": 1,
+      "weight": 0.00005715918833952558
+    }
+  }
+]

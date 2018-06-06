@@ -1,0 +1,43 @@
+[{
+    "recordId": "614c94f1e1e0d84da6c30b1e24fa2798dfe6a7cf",
+    "recordType": "document",
+    "entityType": "protein",
+    "entityId": "entity:protein__globulin",
+    "entityLabel": {
+      "en": "Globulin"
+    },
+    "entityPlural": {
+      "en": "Globulin"
+    },
+    "entityRank": 42,
+    "position": {
+      "score": 1,
+      "sentence": 0,
+      "word": 2095,
+      "end": 10749,
+      "ngram": "globulin",
+      "begin": 10741
+    }
+  },
+  {
+    "recordId": "614c94f1e1e0d84da6c30b1e24fa2798dfe6a7cf",
+    "recordType": "document",
+    "entityType": "protein",
+    "entityId": "entity:protein__nucleoprotein",
+    "entityLabel": {
+      "en": "Nucleoprotein"
+    },
+    "entityPlural": {
+      "en": "Nucleoprotein"
+    },
+    "entityRank": 42,
+    "position": {
+      "score": 1,
+      "sentence": 0,
+      "word": 6835,
+      "end": 34973,
+      "ngram": "nucleoprotein",
+      "begin": 34960
+    }
+  }
+]

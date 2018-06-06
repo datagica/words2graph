@@ -1,0 +1,20 @@
+{
+  "name": "@datagica/words2graph",
+  "description": "convert a list of words to a graph",
+  "version": "0.0.3",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Julian Bilcke <julian.bilcke@datagica.com>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datagica/words2graph.git"
+  },
+  "keywords": [],
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
